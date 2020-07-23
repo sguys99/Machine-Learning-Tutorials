@@ -1,8 +1,7 @@
 
 ## 데이터 분석과 머신러닝 실습 3 : 분류(Classification)
 
-<div style="text-align: right"> 작성자 : 데이터사이언스연구소 유광명, 이영생, 임혜원 </div>  
----
+**Author : Kwang Myung Yu**
 
 
 
